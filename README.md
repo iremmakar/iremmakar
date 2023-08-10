@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is İrem</h2>
+<h2 align="left">Hi 👋! My name is İrem<br> </h2>
+
+#### I'm a computer engineer. I like improve myself in the software field. I think that working with a team rather than working individually improves the person more. Because different ideas means to new horizons. This speeds up the development and process.<br><br>🌱 I’m currently learning Html, Css, Bootstrap, Javascript and React.<br><br>I know about Java, Spring Boot and SQL. And i wrote api and viewed these apis via swagger. I used jpa repository as ORM tool.<br><br>I know about C# and Entity Framework.<br><br>I want to be a full stack developer in the future.
 
 ###
 
@@ -46,16 +48,6 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/iremmakar/iremmakar/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
 </div>
 
 ###
@@ -65,4 +57,3 @@
 </div>
 
 ###
-
